@@ -1,4 +1,4 @@
-State,Prime recipient,Prime recipient amount,Number of sub-recipients,Sub-award amount
+state,prime_recipient,amount,subs_num,subs_amount
 ,TRIBAL GOVERNMENTS NOT DISPLAYED,,0,
 CA,"TREASURER, CALIFORNIA STATE",9525564744.0,2966,9525564743.613882
 TX,"GOVERNOR, TEXAS OFFICE OF THE",8038314291.0,1408,6494611870.606657
